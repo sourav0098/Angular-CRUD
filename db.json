@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Sourav ",
+      "lastName": "Choudhary",
+      "email": "sourav@gmail.com",
+      "dob": "1998-07-26T04:00:00.000Z",
+      "gender": "Male",
+      "education": "College",
+      "company": "ABC",
+      "experience": 5,
+      "salary": 78000,
+      "id": 1
+    }
+  ]
+}
